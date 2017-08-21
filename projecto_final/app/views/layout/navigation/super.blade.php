@@ -1,0 +1,1 @@
+<li><a href="{{ URL::route('orders-page') }}">Encomendas</a></li>

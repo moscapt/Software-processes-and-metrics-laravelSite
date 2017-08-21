@@ -1,0 +1,5 @@
+function isClient(){
+
+	alert('ola');
+
+}
